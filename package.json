@@ -1,0 +1,30 @@
+{
+  "name": "events-portal",
+  "version": "1.0.0",
+  "description": "Events portal for IIIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aayn/events-portal.git"
+  },
+  "keywords": [
+    "events",
+    "maps"
+  ],
+  "author": "Aayush Naik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aayn/events-portal/issues"
+  },
+  "dependencies" : {
+    "express" : "latest",
+    "gulp" :   "latest",
+    "angular" : "latest",
+    "browserify" : "latest",
+    "mongodb" : "latest",
+    "mysql" : "latest"
+  }
+}
